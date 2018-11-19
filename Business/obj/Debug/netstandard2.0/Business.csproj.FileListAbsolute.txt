@@ -1,0 +1,12 @@
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\bin\Debug\netstandard2.0\Repository.dll
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\bin\Debug\netstandard2.0\Repository.pdb
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Business\obj\Debug\netstandard2.0\Business.pdb

@@ -1,0 +1,9 @@
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\bin\Debug\netstandard2.0\Repository.dll
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\bin\Debug\netstandard2.0\Repository.pdb
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\obj\Debug\netstandard2.0\Repository.dll
+D:\Projeler\Core\Net-Core-2-1-Generic-Repository\Repository\obj\Debug\netstandard2.0\Repository.pdb
